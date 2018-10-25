@@ -9,15 +9,15 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 import { Injectable } from '@angular/core';
 import { Http } from '@angular/http';
-import 'rxjs/add/operator/map';
+import { map } from "rxjs/operators";
+//import 'rxjs/add/operator/map';
 var AppService = /** @class */ (function () {
     function AppService(http) {
         this.http = http;
     }
     AppService.prototype.getItems = function () {
-        var apiUrl = 'api/items';
-        this.http.get(apiUrl)
-            .map(function (res) { return res.json(); });
+        var apiUrl = 'api/users';
+        return this.http.get(apiUrl).pipe(map(function (response) { return response.json(); }));
     };
     AppService = __decorate([
         Injectable(),

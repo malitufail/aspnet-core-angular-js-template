@@ -1,0 +1,14 @@
+D:\Websites\Taskii\taskii-app\bin\Debug\netcoreapp2.1\taskiiApp.deps.json
+D:\Websites\Taskii\taskii-app\bin\Debug\netcoreapp2.1\taskiiApp.runtimeconfig.json
+D:\Websites\Taskii\taskii-app\bin\Debug\netcoreapp2.1\taskiiApp.runtimeconfig.dev.json
+D:\Websites\Taskii\taskii-app\bin\Debug\netcoreapp2.1\taskiiApp.dll
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.csprojAssemblyReference.cache
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.csproj.CoreCompileInputs.cache
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.RazorAssemblyInfo.cache
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.RazorAssemblyInfo.cs
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.AssemblyInfoInputs.cache
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.AssemblyInfo.cs
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.RazorTargetAssemblyInfo.cache
+D:\Websites\Taskii\taskii-app\bin\Debug\netcoreapp2.1\taskiiApp.pdb
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.dll
+D:\Websites\Taskii\taskii-app\obj\Debug\netcoreapp2.1\taskiiApp.pdb

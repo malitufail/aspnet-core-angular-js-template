@@ -11,7 +11,7 @@ export class AppService {
 
   }
   getItems() {
-    let apiUrl = 'api/items'
+    let apiUrl = 'api/users'
     return this.http.get(apiUrl).pipe(map(response => { return response.json()}));
   }
 }
